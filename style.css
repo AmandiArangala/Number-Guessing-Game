@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+submit {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+p {
+    font-size: 18px;
+}
